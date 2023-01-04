@@ -9,4 +9,4 @@ Today I study frontend development with React, backend development with Javascri
 </br>
 📫 How to reach me:
     <a href="https://www.linkedin.com/in/anavollu/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"/></a>
-    <a href="acvollu@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16"/></a>
+    <a href="mailto:acvollu@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="16"/></a>
