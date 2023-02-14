@@ -1,7 +1,7 @@
 ## Hi, I’m @anavollu 👋😊
 👀 I’m interested in software development job (frontend or backend)
 </br>
-🌱 I’m currently learning React JS, Next JS
+🌱 I’m currently learning React JS, Next JS, Svelte and Tailwind
 </br>
 💻 I started in IT working with computer support, then I went to the data area and worked with integration, ETL, relational database.
 Today I study frontend development with React, backend development with Javascript and non-relational database with MongoDB.
