@@ -1,5 +1,5 @@
 ## Hi, I’m @anavollu 👋😊
-👀 I’m interested in software development job (frontend or backend)
+👀 I’m interested in frontend development job
 </br>
 🌱 I’m currently learning React JS, Next JS, Svelte and Tailwind
 </br>
